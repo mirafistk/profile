@@ -1,0 +1,40 @@
+*{margin:0;padding:0;outline:0}
+
+.templete{width:0 auto;margin:0 auto;}
+.clear{overflow:hidden;}
+.header{background-color: #f69a6b;
+    color: white;}
+.logo{width:500px;float:left}
+.logo img{width: 260px;
+    float: left;}
+.logo h2{font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: 27px;
+    padding: 1px;}
+.logo p{font-size: 16px;
+    padding: 0px;
+    margin: -16px 0px 15px;
+    color: #334431;}
+.h1,h1{
+   text-align:center;
+    font-style: oblique;
+}
+.h3, h3{
+    font-weight: 100;
+    font-size: 1.75rem;
+    font-style: oblique;
+}
+.container{margin-top:30px;}
+.table{font-family:arial, sans-serif;
+border-collapse:collapse;
+width:100%;
+}
+.td,th{border:1px solid #dddddd;
+text-align:center;
+padding:8px;}
+.tr:nth-child(even) {background-color:dddddd;}
+.card{text-align:;
+}
+table.mytable tr td {background-color:#999;
+text-align:center;
+font-size:20px;}
